@@ -3122,6 +3122,10 @@ nav.navbar .nav .open > a:focus {
   background-image: url("../images/photo2.jpg");
 }
 
+.text-photo-sc .photo-holder.unkris {
+  background-image: url("../images/unkris.jpg");
+}
+
 .text-photo-sc .photo-holder img {
   width: 100%;
 }
